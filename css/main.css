@@ -15,7 +15,6 @@ html{
     text-decoration: none;
 }
 body {
-    
     height: auto;
     font-size: 100%;
     font-weight: normal;
@@ -175,7 +174,6 @@ img {
 }
 .menu_cards li {
     margin-bottom: 100px;
-    display: inline-block;
     margin-right: 28px;
     float: left;
     cursor: pointer;
